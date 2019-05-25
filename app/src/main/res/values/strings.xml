@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RandomGame</string>
+    <string name="textview">TextView</string>
+    <string name="strzelaj">STRZELAJ</string>
+    <string name="nowa_gra">NOWA GRA</string>
+    <string name="najlepszy_wynik">Najlepszy wynik:</string>
+    <string name="wynik">Wynik</string>
+    <string name="podaj_liczb">Podaj liczbę</string>
+
+    <string name="title_activity_start">Random Game</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">RANDOM\nGAME</string>
+    <string name="ranking">RANKING</string>
+    <string name="powrot">Powrót</string>
+    <string name="nr">Nr</string>
+    <string name="indeks">Indeks</string>
+    <string name="title_activity_login">Logowanie</string>
+    <string name="api_download_negative">Brak połączenia z internetem - nie udało się pobrać najnowszych wyników!</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="action_sign_in">Zaloguj się</string>
+    <string name="action_sign_in_short">Zaloguj się</string>
+    <string name="welcome">"Witaj !"</string>
+    <string name="newAccountText">Nie masz jeszcze konta? Załóż nowe</string>
+    <string name="logout">WYLOGUJ SIĘ</string>
+</resources>
